@@ -1,4 +1,6 @@
-## Hi there 👋
+## nice to meet you
+
+char name[] = "im_hyun_seo";
 
 <!--
 **imhyeonseo/imhyeonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
