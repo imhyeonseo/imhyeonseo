@@ -1,7 +1,12 @@
-## nice to meet you
+## Greetings, guys.
 
-char name[] = "im_hyun_seo";
+Name : Imhyeonseo
 
+Phone : 010-8353-4670
+
+Email : lollohol755@gmail.com
+
+Birth date : 2009-10-16
 <!--
 **imhyeonseo/imhyeonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
