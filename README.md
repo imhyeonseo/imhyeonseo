@@ -8,7 +8,7 @@ Email : lollohol755@gmail.com
 
 Birth date : 2009-10-16
 
-contry : south korea
+country : south korea
 <!--
 **imhyeonseo/imhyeonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
