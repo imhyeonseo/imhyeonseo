@@ -8,7 +8,9 @@ Email : lollohol755@gmail.com
 
 Birth date : 2009-10-16
 
-country : south korea
+Country : south korea
+
+Notion : https://www.notion.so/Greetings-guys-202beff3b733809f9c32c5e6b2ff4e3e
 <!--
 **imhyeonseo/imhyeonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
