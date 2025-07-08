@@ -8,7 +8,7 @@ Email : lollohol755@gmail.com
 
 Birth date : 2009-10-16
 
-Country : south korea
+Country : South korea
 
 Notion : https://www.notion.so/Greetings-guys-202beff3b733809f9c32c5e6b2ff4e3e
 <!--
